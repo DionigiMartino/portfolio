@@ -16,6 +16,10 @@ export default function Home() {
         <h1 className="title">
           Nuova PRova 2
         </h1>
+
+        <h1 className="title">
+          Nuova PRova 2
+        </h1>
       </main>
 
       <footer>
