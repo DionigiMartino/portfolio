@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
 
         <h1 className="title">
-          Nuova PRova 2
+          Sito Dionigi
         </h1>
       </main>
 
