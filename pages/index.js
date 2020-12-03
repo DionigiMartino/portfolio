@@ -9,7 +9,9 @@ export default function Home() {
       </Head>
 
       <main>
-        Ciao
+        <h1 className="title">
+          Ciao
+        </h1>
       </main>
 
       <footer>
@@ -27,7 +29,7 @@ export default function Home() {
         .container {
           min-height: 100vh;
           padding: 0 0.5rem;
-          display: flex; 
+          display: flex;
           flex-direction: column;
           justify-content: center;
           align-items: center;
