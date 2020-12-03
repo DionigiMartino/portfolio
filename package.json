@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export && git add --a && git commit --m 'new' --all  && git push",
+    "committing": "git add --a && git commit --m 'new' --all  && git push",
+    "build": "next build && next export",
     "start": "next start"
   },
   "dependencies": {
