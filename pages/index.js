@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Ciao2
+          Ciao3
         </h1>
       </main>
 
